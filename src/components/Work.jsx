@@ -16,7 +16,7 @@ const Work = () => {
           <h3 className='text-4xl font-semibold'>
           {t("work.my")} <span className="text-cyan-600">{t("work.work")}</span>
           </h3>
-          <p className='text-gray-400 mt-3 text-lg'>Check out some of my recent work</p>
+          <p className='text-gray-400 mt-3 text-lg'>{t("work.info")}</p>
         </div>
 
 {/* container for projects */}
