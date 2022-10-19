@@ -21,7 +21,7 @@ export const MoreAboutMe = () => {
             <p className="text-justify leading-7 w-11/12 mx-auto">
             {t("moreaboutme.hobbiedata")}
             </p>
-            <div className="flex-1 md:mt-0 mt-6 flex justify-center items-center">
+            {/* <div className="flex-1 md:mt-0 mt-6 flex justify-center items-center">
             <div className="my-8 lg:w-96 h-full  ">
               <img
                 src={aboutImg}
@@ -29,7 +29,7 @@ export const MoreAboutMe = () => {
                 className="z-10 w-full object-cover bg-cyan-600 rounded-xl"
               />
             </div>
-          </div>
+          </div> */}
             </div>
         </div>
         </div>
