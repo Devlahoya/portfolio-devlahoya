@@ -42,7 +42,7 @@ const Navbar = () => {
       }`}
     >
       <div className="flex items-center justify-between">
-        <div className="mx-7 flex items-start" >
+        <div className="mx-4 flex items-start" >
           <img src={Logo} className="w-14 mx-2 "/>
           <h4 className="text-4xl uppercase font-bold">
             <span className="text-cyan-600">Dev</span>lahoya
@@ -67,7 +67,7 @@ const Navbar = () => {
           onClick={() => setOpen(!open)}
           className={`z-[999]  ${
             open ? "text-gray-900" : "text-gray-100"
-          } text-3xl md:hidden m-5`}
+          } text-3xl md:hidden m-3`}
         >
           <AiOutlineMenu/>
         </div>
@@ -77,7 +77,7 @@ const Navbar = () => {
         open ? "right-0" : "right-[-100%]"
       }`}
         >
-          <ul className="flex flex-col justify-center pb-10 h-screen gap-20 text-lg">
+          <ul className="flex flex-col justify-center pb-10 h-screen gap-14 text-lg">
             {menuLinks?.map((menu, i) => (
               <li
                 onClick={() => setOpen(open)}
@@ -87,6 +87,8 @@ const Navbar = () => {
                 <Link to={menu?.link}>{menu?.name}</Link>
               </li>
             ))}
+            <button className='flex' onClick={()=> i18n.changeLanguage("en")}><img className="w-12 mx-2" src={usflag} alt="en"/></button>            
+            <button className='flex' onClick={()=> i18n.changeLanguage("es")}><img className="w-12 mx-2"src={mxflag} alt="es"/></button>
           </ul>
           
         </div>
