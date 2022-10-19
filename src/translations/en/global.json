@@ -1,0 +1,58 @@
+{
+    "home":{
+        "hello": "Hello!",
+        "mynameis":"My Name Is",
+        "name": "Hector Martinez",
+        "contact-me": "Contact Me",
+        "myrange":"Trainee Developer",
+        "view-work": "View Work"
+    },
+
+    "about":{
+        "about":"About",
+        "me":"Me",
+        "myintroduction":"My introduction",
+        "textaboutme":"I’m a Front-End Developer located in Mexico. I have a serious passion for my work. Well-organised person, problem solver, independent employee with high attention to detail. A family person i'll do everything for my family. Interested in the entire fullstack spectrum and working on ambitious projects with positive people.",
+        "years": "Years Of Experience",
+        "completed-projects":"Completed Projects",
+        "optimistic":"Optimistic",
+        "cv":"Download CV",
+        "moreaboutme":"More About Me",
+        "hide":"Hide"
+
+
+    },
+
+    "moreaboutme":{
+        "more":"More",
+        "about":"About",
+        "me":"Me",
+        "moreabout": "I graduated as a biochemical engineer at the technological institute of Durango, since I was little I was passionate about technology, so when I entered high school I became a technician in programming, at that time I developed sites in WordPress just for fun and also mounted several stores using Prestashop, then when I entered the university I began to study engineering in computer systems, I considered that the career did not have much to offer me so I chose a change to another of my great passions... the food industry so I studied biochemical engineering. \n Since then I have dedicated myself to the specialized service of computer equipment and also to my own business, the production of handmade liquors with my own brand 'La tucita'. \n Currently I am studying on my own to become a web developer, having the basis of my previous studies, it has not been such a hard road but this is just the beginning of what I hope to be a life project and I hope soon to be able to unite my two great passions in some way.",
+        "my":"My",
+        "hobbies":"Hobbies",
+        "hobbiedata": "My hobbies are simple, I like the production of handmade food, from preserves to liquors, I like everything related to technology, video games... I loved playing world of warcraft, actually it is thanks to video games that I could learn English and improve my social skills, I also like to learn, I am aware that we can not do everything at the first try, every day we are able to learn something new."   },
+
+    "skills":{
+        "exp":"Experience",
+        "tech": "These are the technologies I've worked with"
+    },
+
+    "work":{
+        "my":"My",
+        "work":"Work"
+    },
+
+    "contact":{
+        "contact": "Contact",
+        "me":"Me",
+        "get":"Get In Touch",
+        "fields":"All Fields Are Required",
+        "send":"Send Message"
+    },
+    "navbar":{
+        "about":"ABOUT",
+        "skills":"SKILLS",
+        "projects": "PROJECTS",
+        "contact":"CONTACT"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "home":{
+        "hello": "¡Hola!",
+        "mynameis":"Me llamo",
+        "name": "Hector Martinez",
+        "contact-me": "Contactame",
+        "myrange":"Trainee Developer",
+        "view-work": "Mira mis proyectos"
+    },
+
+    "about":{
+        "about":"Acerca de",
+        "me":"Mi",
+        "myintroduction":"Mi introduccion",
+        "textaboutme":"Soy un Desarrollador Front-End ubicado en México. Tengo una gran pasión por mi trabajo. Persona organizada, solucionador de problemas, empleado independiente con alta atención al detalle. Una persona familiar, hago todo por mi familia. Interesado en todo el espectro fullstack y en trabajar en proyectos ambiciosos con gente positiva",
+        "years": "Años De Experiencia",
+        "optimistic":"Optimista",
+        "completed-projects":"Proyectos Completados",
+        "cv":"Descargar CV",
+        "moreaboutme":"Conoceme más",
+        "hide":"Ocultar"
+
+
+    },
+
+    "moreaboutme":{
+        "more":"Conoceme",
+        "about":"Un Poco",
+        "me":"Más",
+        "moreabout": "Me gradué como ingeniero bioquímico en el instituto tecnológico de Durango, desde pequeño me apasionó la tecnología, así que cuando entré a la preparatoria me convertí en técnico en programación, en esa época desarrollé sitios en WordPress sólo por diversión y también monté varias tiendas usando Prestashop, luego cuando entré a la universidad comencé a estudiar ingeniería en sistemas computacionales, consideré que la carrera no tenía mucho que ofrecerme así que opté por un cambio hacia otra de mis grandes pasiones... la industria alimenticia así que estudié ingeniería bioquímica. \n Desde entonces me he dedicado al servicio especializado de equipos informáticos y también a mi propio negocio, la elaboración de licores artesanales con mi propia marca 'La tucita'. \n Actualmente estoy estudiando por mi cuenta para ser desarrollador web, teniendo la base de mis estudios anteriores, no ha sido un camino tan duro pero esto es solo el comienzo de lo que espero sea un proyecto de vida y espero pronto poder unir mis dos grandes pasiones de alguna manera",
+        "my":"Mis",
+        "hobbies":"Pasatiempos",
+        "hobbiedata":"Mis pasatiempos son sencillos, me gusta la produccion de alimentos artesanales, desde conservas hasta licores, me gusta mucho todo lo relacionado a la tecnologia, los videojuegos... me encantaba jugar world of warcraft, en realidad es gracias a los videojuegos que pude aprender ingles y mejorar mis habilidades sociales, tambien me gusta mucho aprender, soy conciente de que no podemos hacer todo al primer intento, cada dia somos capaces de aprender algo nuevo."
+    },
+
+    "skills":{
+        "exp":"Experiencia",
+        "tech": "He Trabajado Con Estas Tecnologías"
+    },
+
+    "work":{
+        "my":"Mis",
+        "work":"Proyectos"
+    },
+
+    "contact":{
+        "contact": "Contactame",
+        "me":"Ahora",
+        "get":"Iniciemos Comunicacion",
+        "fields":"Todos Los Campos Son Requeridos",
+        "send":"Enviar Mensaje"
+    },
+    "navbar":{
+        "about":"ACERCA DE",
+        "skills":"HABILIDADES",
+        "projects": "PROYECTOS",
+        "contact":"CONTACTAME"
+    }
+}
