@@ -4,6 +4,7 @@ import {MoreAboutMe} from './MoreAboutMe';
 import Skills from './Skills';
 import {FadeIn, FadeOut} from "./Fade";
 import {useTranslation} from "react-i18next";
+import CV from "../assets/CV.pdf";
 const About = () => {
   const [t] =useTranslation("global");
   const info = [
@@ -39,7 +40,7 @@ const About = () => {
               <br />
               <br />
               <div className='flex flex-auto gap-8'>
-              <a href="./src/assets/CV.pdf" target="__blank">
+              <a href={CV} target="__blank">
                 <button className="btn-primary mt-8 text-white group border-2  my-2
               hover:bg-pink-600 hover:border-pink-600">{t("about.cv")}</button>
               </a>
