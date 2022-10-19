@@ -8,7 +8,7 @@ import {
   FaFacebook,
   FaLinkedinIn,
 } from 'react-icons/fa';
-import {AiOutlineMenu} from 'react-icons/Ai';
+import {AiOutlineMenu} from 'react-icons/ai';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
